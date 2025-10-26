@@ -8,6 +8,8 @@ This is a monorepo containing both frontend and backend components as git submod
 - **Backend**: [ff16c880f29eeba3615f1e874f52996a-be](https://github.com/demonarch/ff16c880f29eeba3615f1e874f52996a-be)
 - **Frontend**: [ff16c880f29eeba3615f1e874f52996a-fe](https://github.com/demonarch/ff16c880f29eeba3615f1e874f52996a-fe)
 
+- **HuggingFace Space**: [ff16c880f29eeba3615f1e874f52996a-be](https://huggingface.co/spaces/demonarch/ff16c880f29eeba3615f1e874f52996a-be)
+
 ## Local Deployment
 
 ### Clone the Repository with Submodules
